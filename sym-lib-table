@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Hellenfp")(type "Legacy")(uri "D:/Car CAD stuff/hellen-example-master/Proteus_Little-eagle-import.lib")(options "")(descr "")(disabled))
+  (lib (name "hellenfp2")(type "Legacy")(uri "D:/Car CAD stuff/hellen-example-master/BTS5215L.lib")(options "")(descr "")(disabled))
+  (lib (name "hellenfp3")(type "Legacy")(uri "D:/Car CAD stuff/hellen-example-master/74HC125DB_112.lib")(options "")(descr "")(disabled))
+  (lib (name "Proteus_Little-eagle-import")(type "Legacy")(uri "D:/Car CAD stuff/hellen-example-master/Proteus_Little-eagle-import.lib")(options "")(descr "")(disabled))
+  (lib (name "Proteus_Little-rescue")(type "Legacy")(uri "D:/Car CAD stuff/hellen-example-master/Proteus_Little-rescue.lib")(options "")(descr "")(disabled))
+  (lib (name "74HC125DB_112")(type "Legacy")(uri "D:/Car CAD stuff/hellen-example-master/74HC125DB_112.lib")(options "")(descr "")(disabled))
+)
