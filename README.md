@@ -23,3 +23,8 @@ A: See https://github.com/rusefi/uaefi/?tab=readme-ov-file#q-ive-place-an-order-
 Q: What about firmware?
 
 A: See https://github.com/rusefi/fw-custom-hellen144-f4 and https://github.com/rusefi/rusefi/wiki/Custom-Firmware
+
+Q: Automation seems to work but files are not updated?
+
+A: automation requires that you use default branch 'main'
+
